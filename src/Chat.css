@@ -1,0 +1,20 @@
+#chat{
+    width: 502px;
+    min-height: 700px;
+    background-color: white;
+    border: 2px solid black;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    z-index: -1;
+}
+.chat-message-info1{
+    background-color: rgb(98, 98, 240);
+    width: 100px;
+    height: 30px;
+}
+.chat-message-info2{
+    background-color: rgb(126, 126, 171);
+    width: 100px;
+    height: 35px;
+}
